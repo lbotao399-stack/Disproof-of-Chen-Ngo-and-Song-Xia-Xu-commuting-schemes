@@ -1,9 +1,12 @@
 # Disproof of Song–Xia–Xu (*Adv. Math.* 2023) and Counterexamples to the Chen–Ngô Conjectures via Nilpotent Gram Determinants on Commuting Schemes
 
-**Author:** Botao Li (Tsinghua University)  
+**Author:** Botao Li (Peking University)  
 **Preprint:** [`Gram_determinants_commuting_schemes.pdf`](Gram_determinants_commuting_schemes.pdf) (13 pages; LaTeX source in [`Gram_determinants_commuting_schemes.tex`](Gram_determinants_commuting_schemes.tex))
 
-> **Origin Note.** The purely algebraic theorems and counterexamples in this repository were discovered as a byproduct while using AI-assisted methods to optimize BPS cohomology enumeration and perturbative supercharge-lifting algorithms in four-dimensional supersymmetric gauge theories. Because the resulting proofs are completely self-contained, algebraic over characteristic zero (and $\mathbb{Z}[\frac{1}{2}]$ for the Pfaffian identity), and independent of any numerical or modular scans, this 13-page note is spun out here ahead of the companion physics series ([`All-loop-holomorphic-kernels`](https://github.com/lbotao399-stack/All-loop-holomorphic-kernels) and [`quantum-lifts-results`](https://github.com/lbotao399-stack/quantum-lifts-results)).
+> **Origin & Verification Status Disclaimer.**  
+> 1. **Byproduct origin:** The purely algebraic results in this repository emerged as an unexpected byproduct while using AI-assisted methods to optimize BPS cohomology enumeration and perturbative supercharge-lifting algorithms in four-dimensional supersymmetric gauge theories, and are spun out here ahead of the companion physics series ([`All-loop-holomorphic-kernels`](https://github.com/lbotao399-stack/All-loop-holomorphic-kernels) and [`quantum-lifts-results`](https://github.com/lbotao399-stack/quantum-lifts-results)).  
+> 2. **No human or peer review yet:** This note has **not** undergone peer review. At present, the mathematical theorems, proofs, and symbolic checks in this repository have been produced and verified **solely by AI**, and have **not yet been carefully audited by any human (including Botao Li himself)**.  
+> （**状态声明**：本文尚未经过同行评审；此数学定理与证明部分目前完全仅经过 AI 推导与检验，尚未经过包括李博滔本人在内的人类仔细审核。）
 
 ---
 
